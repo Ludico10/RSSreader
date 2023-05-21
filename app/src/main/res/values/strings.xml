@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RSSreader</string>
+    <string name="empty_message">The list is empty</string>
+    <string name="connection_message">Server connection error</string>
+</resources>
